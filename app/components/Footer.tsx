@@ -12,7 +12,6 @@ export default function Footer() {
           <div className="w-full md:w-1/3 text-center">
             <h3 className="text-xl font-bold mb-2">Contact Us</h3>
             <p>Email: info@easydoers.com</p>
-            <p>Phone: (814) 218-7667</p>
           </div>
           {/* Column 3 */}
           <div className="w-full md:w-1/3 text-center md:text-right">
